@@ -48,6 +48,7 @@ jupyter lab
 * Load pre-trained model MobileNetV3Small
 * Fit the classifier including the pre-trained model and a dense network
 * Save the fitted classifier
+
 __Evaluate__
 * Load the test data
 * Evaluate the accuracy and inference speed of the model
